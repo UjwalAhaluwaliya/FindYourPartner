@@ -45,3 +45,5 @@ Spring Security integration
 Profile image upload
 Admin dashboard
 Chat feature between interested profiles
+
+Note: Whole backend connectivity is done by me..created frontend using chatgpt...
